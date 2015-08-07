@@ -1,0 +1,23 @@
+{
+  "name": "nodebot-learning",
+  "version": "1.0.0",
+  "description": "This is me learning how to make nodebots with Johnny Five.",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkeefe/nodebot-learning.git"
+  },
+  "keywords": [],
+  "author": "johnkeefe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkeefe/nodebot-learning/issues"
+  },
+  "homepage": "https://github.com/jkeefe/nodebot-learning",
+  "dependencies": {
+    "barcli": "0.0.17"
+  }
+}
