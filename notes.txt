@@ -1,0 +1,21 @@
+Slide deck at:
+https://dl.dropboxusercontent.com/u/3531958/nodebots-fundamentals-workshop/index.html#/
+
+LOW = 0 = 0v
+HIGH = 1 = ~5v
+GND = G = Ground
+VCC = V = Voltage
+Ohms = resistance
+
+V = voltage in volts
+I = current in amps (I was inductance)
+R = Resistance in Ohms
+
+Ohm's law:
+V = IR
+I = V / R
+R = V / I
+
+Can smooth out the brightness with a log
+
+Servos work with PWM signals
